@@ -1,0 +1,31 @@
+div {
+    /* propiedades decorativas */
+    border: solid 1px black;
+    padding: 5px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: Arial;
+    /* propiedades que hacen el "problema" */
+    width: 300px;
+    height: 110px;
+}
+
+h1 {
+    background-color:blueviolet; 
+    color: aqua;
+
+padding-top: 80px;
+padding-bottom: 100px;
+padding-right: 80px;
+padding-left: 80px;
+
+/* border-top: solid 3px black;
+border-bottom: solid 3px tomato;
+border-right: solid 3px green;
+border-left: solid 3px red; */
+
+border: dashed 3px black;
+
+
+
+}
